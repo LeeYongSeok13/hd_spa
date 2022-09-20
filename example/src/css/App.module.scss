@@ -1,0 +1,15 @@
+.inner {
+    color: #f00;
+
+    strong {
+        font-size: 100px;
+    }
+
+    &:hover {
+        color: #369;
+    }
+
+    &:on {
+        color: #ff0;
+    }
+}
